@@ -1,11 +1,11 @@
-OntoBiotope Annotation:T5	Referent:OBT:000407
-OntoBiotope Annotation:T8	Referent:OBT:003263
-OntoBiotope Annotation:T10	Referent:OBT:000643
-OntoBiotope Annotation:T14	Referent:OBT:002727
-OntoBiotope Annotation:T17	Referent:OBT:002727
-OntoBiotope Annotation:T18	Referent:OBT:000716
-OntoBiotope Annotation:T19	Referent:OBT:003004
-OntoBiotope Annotation:T21	Referent:OBT:000716
-OntoBiotope Annotation:T22	Referent:OBT:002727
-OntoBiotope Annotation:T23	Referent:OBT:000716
-OntoBiotope Annotation:T26	Referent:OBT:001654
+N1	OntoBiotope Annotation:T5	Referent:OBT:000407
+N2	OntoBiotope Annotation:T8	Referent:OBT:003263
+N3	OntoBiotope Annotation:T10	Referent:OBT:000643
+N4	OntoBiotope Annotation:T14	Referent:OBT:002727
+N5	OntoBiotope Annotation:T17	Referent:OBT:002727
+N6	OntoBiotope Annotation:T18	Referent:OBT:000716
+N7	OntoBiotope Annotation:T19	Referent:OBT:003004
+N8	OntoBiotope Annotation:T21	Referent:OBT:000716
+N9	OntoBiotope Annotation:T22	Referent:OBT:002727
+N10	OntoBiotope Annotation:T23	Referent:OBT:000716
+N11	OntoBiotope Annotation:T26	Referent:OBT:001654
