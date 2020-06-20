@@ -17,8 +17,9 @@ N16	OntoBiotope Annotation:T27 Referent:OBT:003220
 N17	OntoBiotope Annotation:T28 Referent:OBT:001792
 N18	OntoBiotope Annotation:T30 Referent:OBT:003220
 N19	OntoBiotope Annotation:T31 Referent:OBT:001792
-N20	OntoBiotope Annotation:T34 Referent:OBT:001792
-N21	OntoBiotope Annotation:T35 Referent:OBT:003269
-N22	OntoBiotope Annotation:T37 Referent:OBT:001792
-N23	OntoBiotope Annotation:T38 Referent:OBT:001577
-N24	OntoBiotope Annotation:T39 Referent:OBT:001792
+N20	OntoBiotope Annotation:T32 Referent:OBT:000268
+N21	OntoBiotope Annotation:T34 Referent:OBT:001792
+N22	OntoBiotope Annotation:T35 Referent:OBT:003269
+N23	OntoBiotope Annotation:T37 Referent:OBT:001792
+N24	OntoBiotope Annotation:T38 Referent:OBT:001577
+N25	OntoBiotope Annotation:T39 Referent:OBT:001792

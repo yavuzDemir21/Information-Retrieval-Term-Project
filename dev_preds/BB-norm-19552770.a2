@@ -5,7 +5,10 @@ N4	OntoBiotope Annotation:T17 Referent:OBT:001446
 N5	OntoBiotope Annotation:T18 Referent:OBT:001446
 N6	OntoBiotope Annotation:T19 Referent:OBT:001446
 N7	OntoBiotope Annotation:T20 Referent:OBT:000091
-N8	OntoBiotope Annotation:T31 Referent:OBT:003066
-N9	OntoBiotope Annotation:T33 Referent:OBT:001446
-N10	OntoBiotope Annotation:T35 Referent:OBT:002488
-N11	OntoBiotope Annotation:T38 Referent:OBT:003066
+N8	OntoBiotope Annotation:T27 Referent:OBT:000919
+N9	OntoBiotope Annotation:T31 Referent:OBT:003066
+N10	OntoBiotope Annotation:T32 Referent:OBT:000268
+N11	OntoBiotope Annotation:T33 Referent:OBT:001446
+N12	OntoBiotope Annotation:T35 Referent:OBT:002488
+N13	OntoBiotope Annotation:T36 Referent:OBT:000694
+N14	OntoBiotope Annotation:T38 Referent:OBT:003066
